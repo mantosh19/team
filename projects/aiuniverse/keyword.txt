@@ -1,0 +1,109 @@
+aiuniverse
+Artificial Intelligence
+AWS Rekognition
+AI-ONE
+DEEPLEARNING4J
+APACHE MAHOUT
+OPEN NEURAL NETWORKS LIBRARY
+OPENNN
+TensorFlow
+Microsoft Azure Machine Learning
+Infosys NIA
+Wipro HOLMES
+Google Cloud Prediction API
+DeepDream
+Google AI
+Caffe
+H20
+MLlib 
+Mahout
+Distributed Machine Learning Toolkit
+NuPIC
+Apache Mahout
+Open Neural Networks Library (OpenNN)
+Oryx 2
+Apache SystemML
+OpenNN
+ONNX
+Open Neural Network Exchange
+Mycroft
+OpenCyc
+Data Science
+Human Intelligence
+Deep Learning
+Data Mining
+Big Data
+Machine Learning
+Microservices
+Reinforcement Learning
+Neuroph
+OpenCog
+Python
+Amazon Lex
+Auto-WEKA
+BigML
+Data Robot
+Driverless AI
+Datawrapper
+Fusioo
+Google Cloud AutoML
+IBM Watson Studio
+Microsoft Azure Machine Learning Studio
+ML Jar
+Paxata
+Rapid Miner
+Tableau
+Trifacta
+Scikit Learn
+PyTorch
+TensorFlow
+Weka
+KNIME
+Colab
+Accors.Net
+Shogun
+Keras.io
+Rapid Miner
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
