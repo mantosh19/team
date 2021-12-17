@@ -17,3 +17,7 @@
 # bestdevops
 - Site - www.bestdevops.com
 - Login - https://www.bestdevops.com/wp-admin
+
+# DevOpsSchol
+- Site - www.devopsschool.com
+- Login - https://www.devopsschool.com/blog/wp-admin/
